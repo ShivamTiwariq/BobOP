@@ -1,0 +1,15 @@
+
+img {
+    width: 200px;
+    border-width: 1cm;
+    border-style: dashed;
+    border-color: blue;
+        outline: 5px dotted blue;
+}
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: yellow;
+    color: blue;
+
+}
